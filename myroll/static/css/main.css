@@ -1,0 +1,11 @@
+
+hr {
+    position: absolute;
+    top: 10vh;
+    width: 100vw;
+}
+div {
+    border-radius: 10px 10px 10px 10px;
+    background-color: green;
+    color: red;
+}
